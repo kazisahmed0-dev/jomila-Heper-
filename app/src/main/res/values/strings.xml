@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Jomila Helper</string>
+    <string name="jomila_tagline">আপনার স্মার্ট বাংলা এআই সহকারী</string>
+    <string name="nav_assistant">সহকারী</string>
+    <string name="nav_whatsapp">হোয়াটসঅ্যাপ</string>
+    <string name="nav_receptionist">কল সহকারী</string>
+    <string name="nav_reminders">রিমাইন্ডার</string>
+    <string name="nav_tasks">কাজের লিস্ট</string>
+    
+    <!-- Assistant -->
+    <string name="assistant_intro">আসসালামু আলাইকুম! আমি জমিলা, আপনার পার্সোনাল এআই অ্যাসিস্ট্যান্ট। আমাকে ভয়েস বা লিখে বলুন — রিমাইন্ডার দিতে, কাজের লিস্ট সামলাতে, হোয়াটসঅ্যাপ মেসেজ ড্রাফট করতে কিংবা কল রেসপন্স করতে!</string>
+    <string name="chat_placeholder">জমিলাকে বলুন (যেমন: ৭ টায় স্কুলে যাওয়ার রিমাইন্ডার দাও)...</string>
+    <string name="send">পাঠান</string>
+    <string name="voice_input">ভয়েস ইনপুট</string>
+    <string name="speak_response">জমিলা কথা বলুন</string>
+    
+    <!-- WhatsApp -->
+    <string name="whatsapp_auto_reply">হোয়াটসঅ্যাপ অটো রিপ্লাই</string>
+    <string name="whatsapp_status_active">অটো রিপ্লাই চালু আছে</string>
+    <string name="whatsapp_status_disabled">অটো রিপ্লাই বন্ধ আছে</string>
+    <string name="whatsapp_send_direct">সরাসরি হোয়াটসঅ্যাপে পাঠান</string>
+    
+    <!-- Calls -->
+    <string name="call_receptionist_title">স্মার্ট কল রিসেপশনিস্ট</string>
+    <string name="call_receptionist_desc">কেউ কল দিলে বা মিসড কল হলে জমিলা দ্রুত সম্মানজনক বার্তা পাঠাবে।</string>
+    
+    <!-- Reminders & Tasks -->
+    <string name="add_reminder">নতুন রিমাইন্ডার</string>
+    <string name="add_task">নতুন কাজ যোগ করুন</string>
+    <string name="completed_tasks">সম্পন্ন কাজ</string>
+    <string name="pending_tasks">চলমান কাজ</string>
+</resources>
